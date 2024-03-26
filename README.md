@@ -1,3 +1,13 @@
-Hello GitHub World! I am here as a student currently enrolled in U. C. Berkeley's  Data Analytics Bootcamp. I am looking to upskill in Data Analytics and visualization. I currently work for J.P. Morgan Chase as a Sr. Training and Development specialist where my work includes teaching finance principles and systems as well as developing e-learnings and designing curriulums for our team members.
-My educational background is in Chemistry from Sacramento State University and I have an MBA from Golden Gate University. I also am 3/4 of the way through my second Master's program at North Western University in Information Design and Strategy and am looking to make a move now into Programming and AI Universe. 
-In my spare time, I like to dable into wildlife photograhy and do freelance writing for magazines. 
+# Welcome to my GitHub Profile!
+
+👋 I'm immersed in the vibrant field of Data Science, honing my skills at UC Berkeley's esteemed Data Analytics Bootcamp. As a Senior Training and Development Specialist at J.P. Morgan Chase, I blend the art of teaching with the science of finance, creating e-learning experiences that enrich and empower our team members.
+
+🎓 My academic path includes a robust foundation in Chemistry from Sacramento State University, complemented by an MBA from Golden Gate University where I merged the worlds of finance and marketing. My quest for knowledge is perpetual, as evidenced by my ongoing Master's in Information Design and Strategy at Northwestern University, where I am sculpting my future in the AI landscape.
+
+🔍 I specialize in the intricacies of data visualization and analytics, with a keen interest in developing cutting-edge curriculums that bridge the gap between complex data concepts and practical implementation.
+
+📈 In this repository, you'll find projects that reflect my passion for merging analytics with actionable learning developments. Each commit represents a step towards my ultimate goal of becoming a transformative force in the Learning and Development sphere, specifically through the lens of data-driven decision-making.
+
+🌿 When not delving into datasets or architecting learning modules, I indulge in wildlife photography and contribute to magazines as a freelance writer, capturing the unpredictable beauty of nature through my lens.
+
+Feel free to explore my repositories and join me on this exhilarating journey at the intersection of data, design, and development.
