@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile!
 
-👋 I'm immersed in the vibrant field of Data Science, honing my skills at UC Berkeley's esteemed Data Analytics Bootcamp. As a Senior Training and Development Specialist at J.P. Morgan Chase, I blend the art of teaching with the science of finance, creating e-learning experiences that enrich and empower our team members.
+👋 I'm immersed in the vibrant field of Data Science, honing my skills at UC Berkeley's esteemed Data Analytics Bootcamp. As a Senior Training and Development Specialist at J.P. Morgan Chase, I blend the art of teaching with the science of finance, creating classroom and e-learning experiences that enrich and empower our team members.
 
 🎓 My academic path includes a robust foundation in Chemistry from Sacramento State University, complemented by an MBA from Golden Gate University where I merged the worlds of finance and marketing. My quest for knowledge is perpetual, as evidenced by my ongoing Master's in Information Design and Strategy at Northwestern University, where I am sculpting my future in the AI landscape.
 
